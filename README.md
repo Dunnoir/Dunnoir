@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Dunnoir
-- 👀 I’m interested in arts, languages, programming and cooking.
-- 🌱 I’m currently learning basic programming.
-- 💞️ I’m looking to collaborate on anything that will help me learn and grow :).
-- 📫 How to reach me: Dunnoir#1782 on Discord
+- Age: 21
+- Nationality: Peruvian
+- Software Engineering student
+- Languages: Spanish (Native); English (B2: Upper Intermediate)
+- Programming languages I know: C++, C#, Java, JavaScript, PHP, Python, SQL
+- I'm able to develop Fullstack websites from scratch (Design, Layout, Coding, etc) and using many different Frameworks and Libraries (Bootstrap, React, etc)
+- I'm able to create and develop Databases written in SQL language and link them to digital products such as websites, applications and so on
 
 <!---
 Dunnoir/Dunnoir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
